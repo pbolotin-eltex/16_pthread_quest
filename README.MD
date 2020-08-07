@@ -1,8 +1,9 @@
 # pthread_quest
 
-This is studying project need to illustrate
-problem that can appear when threads are trying
-change one variable without any syncronization.
+This is the studying project that is needed
+ to illustrate problem that can appear when 
+threads are trying change one variable without
+any syncronization.
 
 ## Installation
 
